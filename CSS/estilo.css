@@ -1,0 +1,47 @@
+body{
+    background-color: cadetblue;
+}
+.fondoverde{
+    background-color: chartreuse;
+}
+h2{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tituloprincipal{
+    background-color: rgb(200,652,265);
+    width: 400px;
+    height: 50px;
+    display: inline-block;
+}
+button{
+    background-color: blueviolet;
+    display: block;
+}
+#botonsolo{
+    background-color: brown;
+
+}
+.suelda{
+    width: 300px;
+}
+.texto2{
+    width: 25%;
+    height: 40%;
+}
+.borde{
+    border-color: blue;
+    border-width: 2px;
+    border-style:dotted ;
+}
+#unico{
+background-image:url(./imagenes/josh-beech-tXJhAFVOHVk-unsplash.jpg)
+}
+ul{
+    background-color: chocolate;
+    width: 500px;    
+}
+li{
+    background-color: crimson;
+    width: 50%;
+}
